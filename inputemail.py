@@ -1,0 +1,6 @@
+name = input("Enter your Name:")
+print(f"hello {name}")
+fav1=input("Enter your fav email:")
+fav2=input("Enter your fav color:")
+fav3=input("Enter your fav number:")
+print(f"Fav email {fav1} {fav2}with {fav3}legs")
