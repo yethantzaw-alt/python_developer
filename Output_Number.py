@@ -1,0 +1,6 @@
+print(3)
+print(358)
+print(5008)
+print(3+5)
+print(3*5)
+print("i am" ,35,"year old")
